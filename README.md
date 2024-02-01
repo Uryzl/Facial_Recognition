@@ -1,0 +1,1 @@
+This program is written by utilizing openCV and face_recognition libary. In this program, the model gets trained on data (photos including a face), and using computer vision (openCV) it recognizes existing face in a video.
